@@ -1,0 +1,29 @@
+body{
+    justify-content: center;
+    display: flex;
+}
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th,td{
+    border-left: 1px solid;
+}
+#table_check,#table_list{
+    border-bottom: 1px solid;
+}
+.main{
+    width: 30rem;
+    justify-content: center;
+    border: 1px solid;
+    height: auto;
+    margin-top: 70px;
+}
+#table1{
+    margin-left: 38%;
+    margin-top: 20px;
+}
+#table2{
+    width: 100%;
+    margin-top: 20px;
+}
